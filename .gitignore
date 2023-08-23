@@ -1,0 +1,8 @@
+data/
+outputs/
+**/.DS_Store
+**/__pycache__/
+pretrained_weights/
+**/*dhpc.sh
+**/*pull.sh
+**/*push.sh
